@@ -124,6 +124,7 @@ body{
 .formularioiniciar form{
 	width: 100%;
 	padding: 80px 20px;
+	
 	position: absolute;
 	border-radius: 20px;
 }
