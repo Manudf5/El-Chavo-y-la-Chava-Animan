@@ -130,5 +130,50 @@ body{
 	background: #C9E615;
 	color: #fff;
 }
-
+/*Página de inicio*/
+.botones_opciones{
+	width: 30%;
+	height: 50%;
+	position: absolute;
+	background-color: #EDFFC7;
+	padding: 10px 20px;
+	border-radius: 20px;
+	text-align: center;
+	top: 30px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	margin: auto;
+}
+.botones_opciones h1{
+	margin-bottom: 18px;
+	color: #F99132; 
+	font-weight: 600;
+	font-size: 26px;
+}
+.botones_opciones button{
+	padding: 20px 80px;
+	color: #fff;
+	background-color: #FF9431;
+	border-radius: 20px;
+	border: 2px solid #FF9431;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+.botones_opciones button:hover{
+	background: #fff;
+	color: #F99132;
+}
+.Dhanna{
+	position: absolute;
+	width: 600px;
+	height: 600px;
+	bottom: -15px;
+	right: 0px;
+	background: url(Dhanna.png);
+}
 
