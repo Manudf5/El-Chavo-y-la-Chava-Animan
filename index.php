@@ -42,7 +42,7 @@
 		    <input class="casillas" type="password" name="clave" id="Clave" placeholder="Clave"><br><br>
 		    <button class="boton_InicioSesion"><strong>Acceder</strong></button> 
 
-        </section>
+                </section>
 		
 	</main>
 </body>
