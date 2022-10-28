@@ -31,26 +31,19 @@
 		<div class="contenedor_chava">
 			<img src="imagenes/Chava.png" class="Chava">
 		</div>
-		<div class="boxtrasero">
-			<div class= "boxtrasero_iniciarsesion">
-				<h2>¿Ya estás registrado?</h2>
-				<p>Haz click aquí para iniciar sesión</p>
-				<button id="boton_iniciarsesion">Iniciar sesión</button>
-			</div>
-			<div class="boxtrasero_registrarse">
-				<h2>¿Aún no estás registrado?</h2>
-				<p>Haz click aquí para registrarte</p>
-				<button id="boton_registrarse">Registrarse</button>
-			</div>
+		<div class="contenedor_chavo">
+			<img src="imagenes/Chavo.png" class="Chavo">
 		</div>
-		<div>
-			<form action="" class="formularioiniciar">
-				<h2>Iniciar sesión</h2>
-				<input type="text" name="cedula" placeholder="Cédula"><br>
-				<input type="password" name="contraseña" placeholder="Contraseña"><br>
-				<button>Acceder</button>
-			</form>
-		</div>	
+        
+		<section class="Formulario_InicioSesion">
+		
+		    <h4>Iniciar Sesion</h4>
+		    <input class="casillas" type="text" name="cedula" id="Cedula" placeholder="Cedula de Identidad"><br>
+		    <input class="casillas" type="password" name="clave" id="Clave" placeholder="Clave"><br><br>
+		    <button class="boton_InicioSesion"><strong>Acceder</strong></button> 
+
+        </section>
+		
 	</main>
 </body>
 </html>
